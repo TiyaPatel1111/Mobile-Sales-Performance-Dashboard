@@ -65,6 +65,6 @@ The dashboard is designed with a clean, modern user interface, featuring interac
 ---
 
 ## 📂 How to Review the Project
-1. Download the `.pbix` file from this repository.
-2. Open it using **Power BI Desktop** and the **Excel dataset** from this repository.
+1. Download the `.pbix` and the **Excel dataset** from this repository.
+2. Open it using **Power BI Desktop**.
 3. Interact with the slicers on the left and top panels to explore the live cross-filtering capabilities.
