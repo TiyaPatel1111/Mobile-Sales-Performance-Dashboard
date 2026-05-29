@@ -9,14 +9,24 @@ The dashboard is designed with a clean, modern user interface, featuring interac
 
 ## 🛠️ Tech Stack & Tools Used
 * **Data Visualization:** Power BI Desktop
-* **Data Source:** Excel / CSV Dataset
+* **Data Source:** Excel
 * **Data Cleaning & Transformation:** Power Query
 * **Key Concepts:** Data Modeling, DAX Measures, KPI Cards, Interactive Slicers, Custom Page Layouts.
 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Mobile_Sales_Dashboard.png)
+
+### 1. Main Executive Dashboard
+![Main Dashboard View](Mobile_Sales_Dashboard.png)
+
+### 2. Motorola Performance Analysis (Filtered View)
+![Motorola View](Dashboard2.png)
+
+### 3. Apple Premium Segment Analysis (Filtered View)
+![Apple View](Dashboard1.png)
+
+---
 
 ---
 
@@ -56,5 +66,5 @@ The dashboard is designed with a clean, modern user interface, featuring interac
 
 ## 📂 How to Review the Project
 1. Download the `.pbix` file from this repository.
-2. Open it using **Power BI Desktop**.
+2. Open it using **Power BI Desktop** and the **Excel dataset** from this repository.
 3. Interact with the slicers on the left and top panels to explore the live cross-filtering capabilities.
